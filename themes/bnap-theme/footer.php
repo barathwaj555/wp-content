@@ -9,6 +9,8 @@
 <div id="footer">
     <h1>FOOTER</h1>
 </div>
-</div>
+<html>
+<body>
+<div></div>
 </body>
 </html>
